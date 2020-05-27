@@ -1,7 +1,7 @@
 {
   "name": "awschome",
   "version": "0.0.2",
-  "description": "",
+  "description": "A collection of convenient microschmervice wrappers around AWS SDK services",
   "author": "wswoodruff",
   "license": "MIT",
   "main": "lib/index.js",
