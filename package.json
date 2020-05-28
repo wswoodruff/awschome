@@ -1,6 +1,6 @@
 {
   "name": "awschome",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A collection of convenient microschmervice wrappers around AWS SDK services",
   "author": "wswoodruff",
   "license": "MIT",
